@@ -1,2 +1,1 @@
-# Learning-project
-I am learning Web app, Ai agents, Mobile Apps, Automation, Integrations etc
+# I will do projects :  Web app, Ai agents, Mobile Apps, Automation, Integrations etc
